@@ -11,3 +11,5 @@ To follow cloud cost-management best practices, I deleted the Resource Group aft
 This experience strengthened my understanding of Azure resource deployment, storage management, cloud security awareness, and cost control, while demonstrating my ability to manage cloud environments from setup through cleanup responsibly.
 <img width="1104" height="658" alt="image" src="https://github.com/user-attachments/assets/892af792-1afa-47d8-afd7-fd3a80d917bf" />
 This screenshot shows my familiarity with navigating Wireshark as well as showcases the network traffic on the backend of my computer, with all the packets it is capturing on my virtual machine.
+<img width="1100" height="657" alt="image" src="https://github.com/user-attachments/assets/dc8ff961-6eb3-40ed-a521-8a64d1129d9b" />
+The Screenshot aboves how I successfully retrieved a private IP address from the Ubuntu VM and was successfully pinged to the Windows 10 VM.
