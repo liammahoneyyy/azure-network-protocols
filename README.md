@@ -13,3 +13,7 @@ This experience strengthened my understanding of Azure resource deployment, stor
 This screenshot shows my familiarity with navigating Wireshark as well as showcases the network traffic on the backend of my computer, with all the packets it is capturing on my virtual machine.
 <img width="1100" height="657" alt="image" src="https://github.com/user-attachments/assets/dc8ff961-6eb3-40ed-a521-8a64d1129d9b" />
 The Screenshot aboves how I successfully retrieved a private IP address from the Ubuntu VM and was successfully pinged to the Windows 10 VM.
+<img width="1115" height="644" alt="image" src="https://github.com/user-attachments/assets/fc175424-d37e-4a5d-9ba9-013c6583a645" />
+Here we have the Azure DNS server as well as DNS.com resolved to 130.211.198.204. The Windows computer had made a successful ssh connection into our Linux computer as we can observe the traffic now.
+
+
