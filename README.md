@@ -8,4 +8,6 @@ Here I have successfully deployed two virtual machines under the same virtual ne
 
 To follow cloud cost-management best practices, I deleted the Resource Group after completing the task, ensuring that all associated resources were removed and no unnecessary charges were incurred. I verified the deletion and reviewed Azure Cost Management and Cost Analysis to confirm there were no ongoing expenses.
 
-This experience strengthened my understanding of Azure resource deployment, storage management, cloud security awareness, and cost control, while demonstrating my ability to responsibly manage cloud environments from setup through cleanup.
+This experience strengthened my understanding of Azure resource deployment, storage management, cloud security awareness, and cost control, while demonstrating my ability to manage cloud environments from setup through cleanup responsibly.
+<img width="1104" height="658" alt="image" src="https://github.com/user-attachments/assets/892af792-1afa-47d8-afd7-fd3a80d917bf" />
+This screenshot shows my familiarity with navigating Wireshark as well as showcases the network traffic on the backend of my computer, with all the packets it is capturing on my virtual machine.
